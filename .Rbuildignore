@@ -3,8 +3,11 @@
 ^.travis.yml$
 ^\.travis\.yml$
 ^figures$
+^misc$
 ^materials$
 ^analysis$
 ^ignoreFiles$
 ^README_.*\.png$
 ^README.md$
+^docs$
+^_pkgdown\.yml$
